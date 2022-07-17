@@ -6,3 +6,7 @@
 // ask to play again?
 
 var playerChoice;
+
+playerChoice = window.prompt("Rock, paper or scissors?");
+
+console.log(playerChoice);
